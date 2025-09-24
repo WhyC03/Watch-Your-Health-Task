@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767897342038",
+    "project_id": "watch-your-health-task-e97fe",
+    "storage_bucket": "watch-your-health-task-e97fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767897342038:android:a71b0dab66a29aa067abf7",
+        "android_client_info": {
+          "package_name": "com.example.watch_your_health_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMglZOz-BfVhwrd5d73Q7mGAdQwjuJbsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
